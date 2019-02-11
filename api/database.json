@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Space Cat",
+      "description": "Shirt with an image of a space cat",
+      "price": "20.00",
+      "quantity": 100,
+      "image": "http://i.rocdn.com/v2/2121870"
+    },
+    {
+      "id": 2,
+      "name": "Corn Dog",
+      "description": "Shirt with a corn dog, not a dog dog",
+      "price": "25.00",
+      "quantity": 20,
+      "image": "https://cdn.shopify.com/s/files/1/2272/0669/products/FLETMT0003A_Z_grande.jpg?v=1532529361"
+    },
+    {
+      "id": 3,
+      "name": "Ying Yang Bunny",
+      "description": "Shirt with an image of a ying yang bunnies",
+      "price": "15.00",
+      "quantity": 2,
+      "image": "https://ae01.alicdn.com/kf/HTB1RruAcqmWQ1JjSZPhq6xCJFXaV/Yin-Yang-Rabbit-Animal-Bunny-Lover-Gift-T-Shirt-Female-Perfect-Quality-Casual-Clothes-For-Women.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Environment Turtle",
+      "description": "Shirt with turtle promoting environment consciousness",
+      "price": "13.00",
+      "quantity": 10,
+      "image": "https://m.media-amazon.com/images/I/A1ntnF3PJOL._CLa%7C2140,2000%7C91E0cHRu2oL.png%7C0,0,2140,2000+0.0,0.0,2140.0,2000.0._UX522_.png"
+    },
+    {
+      "id": 5,
+      "name": "Pink Pig Shirt",
+      "description": "Shirt with a big, cute pig",
+      "price": "19.99",
+      "quantity": 30,
+      "image": "https://m.media-amazon.com/images/I/B139gQIcJCS._CLa%7C2140,2000%7C81ZmSTmGJxL.png%7C0,0,2140,2000+0.0,0.0,2140.0,2000.0._UX522_.png"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "product_id": 2,
+      "date": "9/10/2019",
+      "user": "anonymous",
+      "description": "Hated it. Nobody got the corndog joke."
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "date": "2/10/2019",
+      "user": "CatLoverForever",
+      "description": "I loved the shirt. Fit well and I'm all about cats."
+    },
+    {
+      "id": 3,
+      "product_id": 4,
+      "date": "10/09/2019",
+      "user": "Turtles Sux",
+      "description": "Turtles Sux."
+    },
+    {
+      "id": 4,
+      "product_id": 5,
+      "date": "2/10/2018",
+      "user": "Jane Doe",
+      "description": "The shirt shrunk a little."
+    },
+    {
+      "id": 5,
+      "product_id": 3,
+      "date": "5/17/2007",
+      "user": "Abbey Brown",
+      "description": "This is my favorite shirt and I'm the owner so my opinion matters the most."
+    },
+    {
+      "id": 6,
+      "product_id": 1,
+      "date": "5/17/2007",
+      "user": "Mr. Snuggles",
+      "description": "this shirt is the cat's meow."
+    },
+    {
+      "id": 7,
+      "product_id": 5,
+      "date": "5/17/2007",
+      "user": "Zac Efron",
+      "description": "This shirt makes me snort! Oink!"
+    }
+  ]
+}
